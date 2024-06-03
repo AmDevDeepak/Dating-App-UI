@@ -1,0 +1,8 @@
+*{
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+}
+
+.details-container{
+    background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.884));
+}
